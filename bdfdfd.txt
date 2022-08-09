@@ -1,0 +1,7 @@
+<div id="sendButton">
+			<div style="display: flex; align-items: center; justify-content: center;">
+				<i class="fa fa-microphone" aria-hidden="true"></i>
+				&nbsp;
+				<i class="fa fa-paper-plane" aria-hidden="true" onclick="Ramazan()"></i>				
+			</div>
+          </div>
